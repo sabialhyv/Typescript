@@ -1,0 +1,14 @@
+Barış Aslan (Türkçə)
+
+Barış Aslan proqramlaşdırma mövzularında, xüsusilə JavaScript və TypeScript dərsləri ilə məşhurdur.
+YouTube kanalında TypeScript mövzusunda dərslər və layihələr mövcuddur.
+Link: Barış Aslan YouTube
+Kodluyoruz (Türkçə)
+
+Kodluyoruz proqramlaşdırma və texnologiya təhsili ilə məşğul olan bir icmadır və YouTube kanallarında TypeScript-ə aid dərslər də var.
+Sadə izahlar və əsas mövzulara fokuslanırlar.
+Link: Kodluyoruz YouTube
+Patika.dev (Türkçə)
+
+Patika.dev proqramlaşdırma öyrənənlər üçün çox geniş resurslar təklif edir. YouTube kanallarında TypeScript mövzusunda dərslər tapa bilərsiniz.
+Link: Patika.dev YouTube

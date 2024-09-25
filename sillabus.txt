@@ -1,0 +1,84 @@
+TypeScript Sillabusu: Yeni Başlayanlar üçün
+1. Giriş və Əsas Anlayışlar
+    TypeScript nədir?
+        TypeScript vs JavaScript.
+        Statik tip anlayışı.
+    Quraşdırma və İstifadə:
+        Node.js və npm quraşdırılması.
+        TypeScript kompilatorunun quraşdırılması (tsc).
+        İlk TypeScript faylı: .ts faylı yaratmaq və onu JavaScript-ə çevirmək.
+
+2. Əsas Tiplər
+    Tiplər və Onların İstifadəsi:
+        string, number, boolean.
+        any, unknown və void.
+        array və tuple.
+    Dəyişənlərin Tip Təyin Edilməsi:
+        Dəyişənlərə tiplərin təyin edilməsi.
+        Tip yoxlanışı və səhvlərin qarşısının alınması.
+
+3. Funksiyalar
+    Funksiya Yaradılması:
+        Parametrlərə tiplərin təyin edilməsi.
+        Dönüş tipi (return tipi).
+    Opsional Parametrlər və Default Dəyərlər:
+        Parametrlərin opsional olması.
+        Default dəyər təyin etmək.
+    Arrow Functions (Ox funksiyaları):
+        JavaScript-dən fərqləri.
+
+4. Obyektlər və İnterfeyslər
+    Obyektlər:
+        Obyekt tipləri necə təyin edilir.
+    İnterfeyslər:
+        İnterfeysin yaradılması.
+        İnterfeys vasitəsilə obyektlərin tiplərinin təyin edilməsi.
+        Opsional xüsusiyyətlər və readonly xüsusiyyətləri.
+
+5. Siniflər (Classes)
+    Siniflər və OOP (Object-Oriented Programming) anlayışı:
+        Siniflərin yaradılması (class).
+        Xüsusiyyətlər və metodlar.
+        Constructor və Modifikatorlar:
+        public, private, protected modifikatorları.
+    İrsi (Inheritance):
+        Siniflər arasında irsi əlaqə (extends).
+        Overriding və super metodu.
+
+6. Enum-lar və Union Tipləri
+    Enum-lar:
+        Enum-ların yaradılması və istifadəsi.
+    Union Tipləri:
+        Bir neçə tipin birləşməsi (union types).
+        Tip yoxlaması (type narrowing).
+
+7. Tiplər və Generiklər
+    Generiklər:
+        Generiklərin istifadəsi (vəziyyətə görə tiplərin təyin edilməsi).
+    Tip Aliasları və İrsi Tip əlaqəsi:
+        Tip aliaslarının yaradılması.
+        Bir neçə tip arasında əlaqə yaratmaq.
+
+8. Modul İdarəetməsi
+    TypeScript-də Modullar:
+        Fayllar arasında modulların necə idarə olunması (import və export).
+    Namespace-lər:
+        Ad məkanlarının istifadəsi.
+
+9. TypeScript ilə Tərtibat Ətraf Mühiti
+    Linting və Kod Keyfiyyəti Alətləri:
+        tslint və digər keyfiyyət artırıcı alətlər.
+    TypeScript ilə React (opsiyonel):
+        TypeScript-i React ilə necə birləşdirmək.
+
+10. Proyektlər
+    Kiçik Proyektlər:
+        TypeScript istifadə edərək kiçik bir layihə hazırlamaq (məsələn, To-Do app).
+    Test Yazılması:
+        TypeScript ilə test yazmağın əsasları (Jest və ya başqa test kitabxanaları ilə).
+
+
+
+
+Resurslar:
+    Rəsmi dokumentasiya: TypeScript Docs
